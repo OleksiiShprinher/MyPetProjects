@@ -1,1 +1,7 @@
-python
+pipenv==11.8.0
+psutil==5.0.1
+pyowm==2.8.0
+Pygments==2.2.0
+pyparsing==2.2.0
+pyTelegramBotAPI==3.6.1
+python-telegram-bot==7.0.1
